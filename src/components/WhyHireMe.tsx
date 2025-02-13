@@ -21,7 +21,7 @@ const WhyHireMe = ({
         <div className="relative max-w-lg mx-auto lg:mx-0">
           <div className="absolute -z-10 right-0 top-0 w-4/5 h-4/5 rounded-full bg-[#FF6B2B]/20" />
           <ImageWithFallback
-            src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e"
+            src="https://images.unsplash.com/photo-1556157382-97eda2d62296?q=80&w=2940&auto=format&fit=crop"
             alt="Professional portrait"
             className="rounded-2xl w-full h-[400px] object-cover"
           />
